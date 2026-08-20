@@ -1,0 +1,9 @@
+-- Example seed data (NOT executed automatically, no real Daegu station data included).
+-- Place real seed data here manually if/when needed, or wire this file up via
+-- spring.sql.init.mode / a migration tool.
+--
+-- INSERT INTO line (line_name, line_color) VALUES ('Line 1', '#C4262E');
+-- INSERT INTO station (station_name, station_code, line_id, sequence_no) VALUES ('Example Station', 'L1-01', 1, 1);
+-- INSERT INTO station_section (from_station_id, to_station_id, duration_seconds, distance_km) VALUES (1, 2, 120, 1.2);
+-- INSERT INTO transfer_info (from_station_id, to_station_id, transfer_time_sec) VALUES (10, 11, 180);
+-- INSERT INTO fare_policy (min_distance_km, max_distance_km, base_fare) VALUES (0, 10, 1500);
